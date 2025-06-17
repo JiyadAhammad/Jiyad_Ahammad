@@ -1655,7 +1655,7 @@ h6 {
 }
 
 .jiyad_tm_modalbox .main_details .textbox {
-	width: 70%;
+	width: 100%;
 	padding-right: 40px;
 }
 
@@ -2033,7 +2033,7 @@ h6 {
 }
 
 .jiyad_tm_resume .content_inner {
-	width: 75%;
+	width: 100%;
 	margin-top: 85px;
 	float: left;
 }
@@ -3988,5 +3988,16 @@ input[type=number] {
 
 	.jiyad_tm_modalbox .service_popup_informations .main_title h3 {
 		font-size: 22px;
+	}
+
+	.tech-section ul {
+		list-style-type: disc;
+		padding-left: 40px;
+	}
+
+	.firebase-sublist {
+		list-style-type: circle;
+		margin-top: 5px;
+		padding-left: 30px;
 	}
 }
